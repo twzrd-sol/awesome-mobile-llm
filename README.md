@@ -563,6 +563,12 @@ This section includes paper that are mobile-related, but not necessarily run on 
 * [MCDC @ ICLR'25](https://sites.google.com/view/mcdc2025/): Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning
 * [Adaptive Foundation Models @ NeurIPS'24](https://adaptive-foundation-models.org/)
 
+## APIs & Tools
+
+*Services and APIs for mobile LLM deployments*
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Useful for mobile/edge LLM deployments where agents need to authenticate each other autonomously. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Related Awesome Repositories
 
 If you want to read more about related topics, here are some tangential awesome repositories to visit:
